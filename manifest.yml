@@ -1,9 +1,0 @@
-applications:
-- disk_quota: 1024M
-  buildpack: php_buildpack
-  host: bv-asm-inf205
-  name: BV ASM INF205
-  path: .
-  domain: mybluemix.net
-  instances: 1
-  memory: 128M
